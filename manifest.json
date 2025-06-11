@@ -1,0 +1,15 @@
+{
+  "name": "Fred’s HellDesk",
+  "short_name": "HellDesk",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#4a00e0",
+  "icons": [
+    {
+      "src": "https://emojiapi.dev/api/v1/fire/64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
